@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說菩薩內戒經
+#+DATE: 2015-08-30 20:44:21.623037
+#+PROPERTY: JUAN 0
